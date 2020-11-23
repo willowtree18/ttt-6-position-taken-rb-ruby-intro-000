@@ -7,5 +7,7 @@ end
 
 if board[index] == X or O
   return (true)
+end
+
 
 end
