@@ -5,7 +5,7 @@ if board[index] == " " or "" or (nil)
   return (false)
 end
 
-if board[index] == X or O
+if board[index] == "X" or "O"
   return (true)
 end
 
